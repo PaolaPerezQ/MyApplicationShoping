@@ -35,15 +35,6 @@
                 android:id="@+id/imageViewProducts"
                 android:layout_width="153dp"
                 android:layout_height="136dp"
-                android:contentDescription="TODO"
-                android:src="@drawable/productos"
-                android:visibility="visible" />
-
-            <ImageView
-                android:id="@+id/imageViewProduct"
-                android:layout_width="153dp"
-                android:layout_height="136dp"
-                android:contentDescription="TODO"
                 android:src="@drawable/productos"
                 android:visibility="visible" />
         </LinearLayout>
