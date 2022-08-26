@@ -23,7 +23,7 @@
         app:layout_constraintVertical_bias="0.0" />
 
     <ImageView
-        android:id="@+id/imageViewFonfo"
+        android:id="@+id/imageViewFondo"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#C45458FD"
